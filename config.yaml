@@ -1,2 +1,2 @@
-path: "my_model3.joblib"
+path: "my_model 3.joblib"
 features: ['MDVP:Fo(Hz)', 'MDVP:Jitter(%)']
